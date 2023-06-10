@@ -1,3 +1,0 @@
-"""
-Ronald Kelly
-"""
